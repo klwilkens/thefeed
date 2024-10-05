@@ -218,3 +218,14 @@ caption{
     align-items: center;
     background-color: bisque;
 }
+
+
+.eating {
+    align-content: center;
+    position: absolute;
+    right: 175px;
+}
+
+#top {
+    align-content: center;
+}
